@@ -2,3 +2,4 @@
 * text=auto
 Classifier_model.pkl filter=lfs diff=lfs merge=lfs -text
 Regressor_model.pkl filter=lfs diff=lfs merge=lfs -text
+Features.csv filter=lfs diff=lfs merge=lfs -text
