@@ -55,4 +55,4 @@ After we have our model, we create the Streamlit app where we take input from th
 3. Run the Streamlit app using the command: streamlit run app.py
 4. Provide inputs to get the Selling Price estimate and Status
 
-Demo link: <"Insert LinkedIn link">
+Demo link: https://www.linkedin.com/posts/akash-kumar-singh-37a820150_machine-learning-project-to-create-regression-activity-7120065364423512065-nnBK?utm_source=share&utm_medium=member_desktop
